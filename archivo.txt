@@ -1,2 +1,3 @@
 Hola, soy un archivo conflictivo -
 Soy un commit conflictivo
+Soy otro conflicto
